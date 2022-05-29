@@ -1,0 +1,74 @@
+html{
+    scroll-behavior: smooth;
+}
+#navbarlist{
+    position: fixed;
+    width: 60%;
+    padding: 20px;
+}
+nav{
+    background-color: #2B2C2F;
+}
+ul{
+    list-style-type: none;
+}
+nav ul li {
+    padding-left: 70px;
+}
+nav ul li a{
+    color: #8E8777;
+}
+#about{
+    background-color: #F7F7F7;
+    height: 1080px;
+}
+#allabout{
+    padding-top: 7%;
+    text-align: justify;
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+#skills{
+    padding-top: 3%;
+}
+.card{
+    display: grid;
+    width: 250px;
+    height: 320px;
+}
+
+#heads{
+text-align: center;
+padding-bottom: 2%;
+}
+#portfolio{
+    padding-top: 10%;
+    background-color: azure;
+    height: 1080px;
+}
+#contact{
+    background-color: #F7F7F7;
+    height: 900px;
+}
+.contact-div{
+    padding-top: 15%;
+}
+
+#footlerlist{
+ display: inline-block;
+}
+footer{
+    background-color: azure;
+}
+.list-unstyled li{  
+    
+    display: inline;
+    padding-left: 15px;
+  }
+.credits a{
+    color:#8E8777;
+}
